@@ -13,3 +13,6 @@ library(usethis)
 Now We have the latest version of our R file.
 
 I dont understand why these changes are stored in Github.
+
+oh it shows on Github online.
+lets make some changes online and see whether it will appear or can be pulled in local
