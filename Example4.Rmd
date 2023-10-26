@@ -10,6 +10,6 @@ install.packages("usethis")
 library(usethis)
 ```
 
+Now We have the latest version of our R file.
 
-
-if I made some change. Can it appear in the commit window?
+I dont understand why these changes are stored in Github.
