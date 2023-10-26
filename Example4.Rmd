@@ -1,0 +1,12 @@
+---
+title: "practical04"
+output: html_document
+date: "2023-10-26"
+---
+
+
+```{r}
+install.packages("usethis")
+library(usethis)
+```
+
